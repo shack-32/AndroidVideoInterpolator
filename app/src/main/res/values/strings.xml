@@ -1,4 +1,9 @@
 <resources>
-    <string name="app_name">Video Interpolator</string>
+    <string name="app_name">Android Video Interpolator</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_scrolling_files">Select a video to play</string>
+
+    <string name="title_activity_fullscreen_video">Smooth Video Playback</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
 </resources>
