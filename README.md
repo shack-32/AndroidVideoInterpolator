@@ -10,3 +10,4 @@ So far we are working on:
 Please feel free to fork and contribute to code.
 
 *This repository has been sourced from other code found on the internet and is not meant for sale or profit.*
+*If I have used your code and you would like it taken out, please contact me.*
